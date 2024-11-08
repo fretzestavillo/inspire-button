@@ -2,6 +2,7 @@
     "name": "inspire-button",
     "private": true,
     "version": "0.0.0",
+    "homepage": "https://github.com/fretzestavillo/inspire-button",
     "type": "module",
     "scripts": {
         "dev": "vite",
